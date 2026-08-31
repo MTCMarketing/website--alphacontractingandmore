@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslap_kommerce_web=self.webpackChunkslap_kommerce_web||[]).push([[337],{3423:function(e,l,a){a.r(l);var u=a(7294),c=a(7642);l.default=()=>u.createElement(c.default,null)}}]);
+//# sourceMappingURL=component---src-pages-alphacontractingandmore-index-tsx-c42a87fe1c6b3f36065b.js.map
